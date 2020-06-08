@@ -73,7 +73,7 @@ p {
 }
 
 /* Content Seciton */
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -98,7 +98,7 @@ p {
 }
 
 /* Benefits Section */
-.benefits {
+article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
